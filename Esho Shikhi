@@ -47,7 +47,7 @@ https://templatemo.com/tm-557-grad-school
             <li><a href="#section2">Who we are?</a></li>
             <li><a href="#section3">What we do?</a></li>
             <li><a href="#section3">How it works?</a></li>
-            <li><a href="https:/www.jssoftntech.com/index.html" rel="sponsored" class="external">External URL</a></li>
+            
           </ul>
         </li>
         <li><a href="#section4">Courses</a></li>
@@ -106,8 +106,6 @@ https://templatemo.com/tm-557-grad-school
                 <p>LEGEND ENGLISH ACADEMY is an ideal institute for learners interested in developing their life skills in peer-to-peer communication. </p>
                 <p class="hidden-sm">Curabitur id eros vehicula, tincidunt libero eu, lobortis mi. In mollis eros a posuere imperdiet.</p>
                 <div class="scroll-to-section"><a href="#section2">More Info.</a></div>
-
-<h1><a href="LegendEnglishAcademyHomepage.html"></a>Know more </h1>
             </div>
             </div>
           </div>
@@ -438,16 +436,16 @@ JS Software & Technology is a dedicated software firm to turn your business into
             <h4>Watch the video to learn more <em>about Esho Shikhi</em></h4>
             <p>You are NOT allowed to redistribute this template ZIP file on any template collection website. However, you can use this template to convert into a specific theme for any kind of CMS platform such as WordPress. You may <a rel="nofollow" href="http://www.jssoftntech.com/" target="_parent">contact JS Software & Technology</a> for details.
             <br><br>Suspendisse tincidunt, magna ut finibus rutrum, libero dolor euismod odio, nec interdum quam felis non ante.</p>
-            <div class="main-button"><a rel="nofollow" href="https://fb.com/templatemo" target="_parent">External URL</a></div>
+            <div class="main-button"><a rel="nofollow" href="LegendEnglishAcademyHomepage.html" target="_parent">Visit : Legend English Academy</a></div>
           </div>
         </div>
         <div class="col-md-6">
           <article class="video-item">
             <div class="video-caption">
-              <h4>Power HTML Template</h4>
+              <h4>Follow YouTube Channel</h4>
             </div>
             <figure>
-              <a href="https://www.youtube.com/watch?v=r9LtOG6pNUw" class="play"><img src="assets/images/main-thumb.png"></a>
+              <a href="https://www.youtube.com/@amitkumaracharjee572" class="play"><img src="LegendLogo.png"></a>
             </figure>
           </article>
         </div>
